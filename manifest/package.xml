@@ -5,7 +5,11 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Voltas_Electrics__c</members>
+        <members>IndustryPrice__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>tsmc__c</members>
         <name>CustomObject</name>
     </types>
     
