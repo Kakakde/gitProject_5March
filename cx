@@ -1,0 +1,12 @@
+[1mdiff --git a/manifest/package.xml b/manifest/package.xml[m
+[1mindex 69bd1fb..4c5efd1 100644[m
+[1m--- a/manifest/package.xml[m
+[1m+++ b/manifest/package.xml[m
+[36m@@ -10,4 +10,4 @@[m
+     </types>[m
+     [m
+     <version>59.0</version>[m
+[31m-</Package>[m
+\ No newline at end of file[m
+[32m+[m[32m</Package>[m
+hint: core.useBuiltinFSMonitor=true is deprecated;please set core.fsmonitor=true instead
